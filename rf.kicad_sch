@@ -6093,7 +6093,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c272867a-67a1-4e61-8568-57e01b694566")
-		(property "Reference" "J1"
+		(property "Reference" "L1"
 			(at 50.8 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6155,7 +6155,7 @@
 		(instances
 			(project "pcsk225_ntp"
 				(path "/ece5592d-c78f-4d56-a72a-26347184f54b/c523a75c-6254-41cb-8170-0ba25fada1a2"
-					(reference "J1")
+					(reference "L1")
 					(unit 1)
 				)
 			)
