@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "PCSK225 time signal receiver")
-		(date "2026-09-05")
-		(comment 1 "Drawn by Wojciech SP5WWP")
+		(date "2026-10-24")
+		(company "Wojciech Kaczmarski SP5WWP")
 	)
 	(lib_symbols)
 	(wire
