@@ -1604,7 +1604,7 @@
 		)
 		(uuid "161fdf07-5741-444c-8f73-9793f2b3d221")
 	)
-	(text "Op-amp supplies"
+	(text "Op-amp supplies\nDecoupling caps"
 		(exclude_from_sim no)
 		(at 97.79 185.42 0)
 		(effects
